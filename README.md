@@ -87,6 +87,6 @@ Plataforma ponta a ponta para monitoramento de transações Pix com:
 
 ## 📫 Contato
 
-LinkedIn: [([colocar link](https://www.linkedin.com/in/felipegonrios/))]
+LinkedIn:https://www.linkedin.com/in/felipegonrios/
 
 GitHub: https://github.com/Felipegonrios
